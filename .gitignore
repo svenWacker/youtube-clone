@@ -7,4 +7,4 @@ node_modules/
 # VS code config
 .vscode/
 # Generate fonds
-src/fonds/
+src/fonts/
