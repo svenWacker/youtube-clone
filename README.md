@@ -1,31 +1,41 @@
-# youtube-clone-sass-js
+# Youtube-Clone
 
-## Description
+This is a youtube-clone
 
-- A Youtube clone as part of my study at DCI
-- Using SASS project structure
-- HTML, SCSS, JS
-- NPM build and deploy
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## File Declaration
+### installing
 
-### `Vendors`
+Explain how to run the automated tests for this system
 
-Here you will be adding all of the 3rd party tools say fontawesome, normalize and any other ones.
+Runing in directory server and client
 
-### `Abstracts`
+```
+npm init
+npm install
+```
 
-Any Variables you will have mixins or functions, you can add here so it's kind of your owm setups for your project.
+## Running this app
 
-### `Base`
+```
+npm start
+```
 
-You can set your customizations for your base, say your own normalize or any headlines general rules.
+## Screenshot
 
-### `Components`
+<div align="center">
+    <img src="/screenshot/pic1.jpg" width="400px"</img> 
+    <img src="/screenshot/pict2.jpg" width="400px"</img> 
+</div>
 
-Do deep in depth into your elements what Defines your webpage what components that you rely on say (forms, registration forms, Gallery, ...)
-tip: you will see actual use here when we start working with react
+## Built With
 
-## `layout`
+* [Nodes](https://nodejs.org/en/)
+* [ReactJs](https://reactjs.org/)
+* [React Router Dom](https://reactrouter.com/)
+* [material-ui](https://material-ui.com/)
 
-Define your layout, how your webpage looks like
+## Authors
+
+* **Ahmad Zaky** 
+reference from the video [Clever Programmer](https://youtu.be/NT299zIk2JY)
