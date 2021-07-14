@@ -8,20 +8,20 @@ function RecommendedVideos() {
       <h2>Recommended</h2>
       <div className="recommendedVideos__videos">
         <VideoCard
-          title="Weird Genius - Sweet Scar (ft. Prince Husein)"
-          views="58.1M Views"
-          timestamp="2 years ago"
-          channelImage="https://yt3.ggpht.com/a/AATXAJyhUWH0wx_MBMaRFYULMyAjwRHgoPiIuCgoiTmT=s88-c-k-c0x00ffffff-no-rj"
-          channel="Weird Genius"
-          image="https://i.ytimg.com/vi/dxIG9JtakBM/hq720.jpg?sqp=-oaymwEZCNAFEJQDSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCGeCi6dYpgCdt1gmXJrijVQBxhTg"
+          title="Free Fallin - Tom Petty | Marty Ray Project Cover | Marty Ray Project"
+          views="3.5M Views"
+          timestamp="3 years ago"
+          channelImage="https://yt3.ggpht.com/ytc/AKedOLQyBP57Z8dJQ0BiPTLEFvo3x9ypRpWTQBXhIFkIZg=s88-c-k-c0x00ffffff-no-rj-mo"
+          channel="Marty Ray Project"
+          image="	https://i.ytimg.com/vi/rTYjQLE7-B0/hq720.jpg?sqp=-…AFwAcABBg==&rs=AOn4CLC2KnUFRhxFxBCQYO860Xb6qYrEPA"
         />
         <VideoCard
-          title="Day in the Life of a Japanese Game Programmer"
-          views="7M Views"
-          timestamp="9 month ago"
-          channelImage="https://yt3.ggpht.com/a/AATXAJzjOc3SNgeA1kDmwPXpSht6n0QTEhZLSciF0W5NbQ=s100-c-k-c0xffffffff-no-rj-mo"
-          channel="Paolo fromTOKYO "
-          image="https://i.ytimg.com/vi/e_TxH59MclA/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLC-rAIrZojwq7TqBd5Ek_r_94SBZQ"
+          title="Asaf Avidan - One Day Live @ Sziget 2015"
+          views="10M Views"
+          timestamp="5 years ago"
+          channelImage="https://yt3.ggpht.com/ytc/AKedOLR4B01EKX2CitqBe6oU9jEQkJ-PrCCVgp3iKyUy-g=s176-c-k-c0x00ffffff-no-rj"
+          channel="Sziget Festival"
+          image="	https://i.ytimg.com/vi/jhxYAaB7E1U/hqdefault.jpg?s…RUAAIhCGAE=&rs=AOn4CLCh0ESdQb39P5L42H79sGg1eFJfYw"
         />
         <VideoCard
           title="Channel Update - Taking a Break, Guest Creators"
@@ -41,8 +41,8 @@ function RecommendedVideos() {
         />
         <VideoCard
           title="Anne-Marie & Ed Sheeran – 2002 [Official Acoustic Video]"
-          views="83M Views"
-          timestamp="2 years ago"
+          views="109M Views"
+          timestamp="3 years ago"
           channelImage="https://yt3.ggpht.com/a/AATXAJxQuKjkILwNh928PJPBTKEr9c2FNLBcflE5y78YSA=s88-c-k-c0x00ffffff-no-rj"
           channel="Anne-Marie"
           image="https://i.ytimg.com/vi/u3ePPA0yzSU/hqdefault.jpg?sqp=-oaymwEZCOADEI4CSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLA40JzJrL2r8V082XSRNqxOogAM6g"
@@ -72,12 +72,12 @@ function RecommendedVideos() {
           image="https://i.ytimg.com/vi/rqw3OftE5sA/hq720.jpg?sqp=-oaymwEZCNAFEJQDSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDQLemWME87k6i_e1Qy9LGcMZJBqg"
         />
         <VideoCard
-          title="🔴 Build a Zoom Clone with Node JS for Beginners"
-          views="104K Views"
-          timestamp="2 week ago"
-          channelImage="https://yt3.ggpht.com/a-/AOh14GhOUP_9re93yOMdN4RLQLHl6Mbk6vmUS1524w=s68-c-k-c0x00ffffff-no-rj-mo"
-          channel="Clever Programmer"
-          image="https://i.ytimg.com/vi/ZVznzY7EjuY/hq720.jpg?sqp=-oaymwEZCNAFEJQDSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAAHmiSo1PUEJ1QQ0Otifpqfqo_hg"
+          title="Muse - The Resistance (Full Album)"
+          views="217M Views"
+          timestamp="12 years ago"
+          channelImage="https://yt3.ggpht.com/8CkK4wpAWWWDQ14QqBtOwOXrO9Og2Otkwj0R5g_it_vg3WOnzgJ34K9eq4WbkWEzewJ1j2Gcqg=s88-c-k-c0x00ffffff-no-rj"
+          channel="Muse"
+          image="https://i.ytimg.com/vi/w8KQmps-Sog/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBB8AopmnZ5rhwf4RS3Ng1TtizRw"
         />
       </div>
     </div>

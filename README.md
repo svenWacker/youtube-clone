@@ -30,12 +30,12 @@ npm start
 
 ## Built With
 
-* [Nodes](https://nodejs.org/en/)
-* [ReactJs](https://reactjs.org/)
-* [React Router Dom](https://reactrouter.com/)
-* [material-ui](https://material-ui.com/)
+- [Nodes](https://nodejs.org/en/)
+- [ReactJs](https://reactjs.org/)
+- [React Router Dom](https://reactrouter.com/)
+- [material-ui](https://material-ui.com/)
 
 ## Authors
 
-* **Ahmad Zaky** 
-reference from the video [Clever Programmer](https://youtu.be/NT299zIk2JY)
+- **Ahmad Zaky**
+  reference from the video [Clever Programmer](https://youtu.be/NT299zIk2JY)
