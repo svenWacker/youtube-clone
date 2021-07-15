@@ -2,13 +2,11 @@
 
 This is a youtube-clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ### installing
 
 Explain how to run the automated tests for this system
 
-Runing in directory server and client
+Running in directory server and client
 
 ```
 npm init
@@ -34,8 +32,3 @@ npm start
 - [ReactJs](https://reactjs.org/)
 - [React Router Dom](https://reactrouter.com/)
 - [material-ui](https://material-ui.com/)
-
-## Authors
-
-- **Ahmad Zaky**
-  reference from the video [Clever Programmer](https://youtu.be/NT299zIk2JY)
