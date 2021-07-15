@@ -2,6 +2,7 @@
   "name": "youtube-clone",
   "version": "0.1.0",
   "private": true,
+  "CI": false,
   "homepage": "http://svenwacker.github.io/youtube-clone",
   "dependencies": {
     "@material-ui/core": "^4.11.0",
