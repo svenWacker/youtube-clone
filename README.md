@@ -22,8 +22,8 @@ npm start
 ## Screenshot
 
 <div align="center">
-    <img src="/screenshot/pic1.jpg" width="400px"</img> 
-    <img src="/screenshot/pic2.jpg" width="400px"</img> 
+    <img src="/assets/pic1.jpg" width="400px"</img> 
+    <img src="/assets/pic2.jpg" width="400px"</img> 
 </div>
 
 ## Built With
